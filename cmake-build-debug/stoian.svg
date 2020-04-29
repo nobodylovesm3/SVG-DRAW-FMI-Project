@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080"> <!-- Group 6-->
+<line x1="405" y1="505" x2="505" y2="605" stroke="blue"
+/><rect x="105" y="155" width="130" height="110" fill="yellow"
+/><rect x="355" y="195" width="130" height="110" fill="green"
+/><rect x="205" y="155" width="730" height="110" fill="black"
+/><rect x="105" y="155" width="130" height="110" fill="green"
+/><circle cx="105" cy="105" r="50" fill="blue"
+/></svg>
